@@ -41,5 +41,5 @@ export default App;
 
 
 <h1>
-  shaban and shakeel with shayan bilal
+  shaban and shakeel with bilal
 </h1>
