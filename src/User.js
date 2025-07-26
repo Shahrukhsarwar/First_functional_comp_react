@@ -4,6 +4,9 @@ function User() {
       <h1>This is first functional component</h1>
       <h2>New heading added!</h2>
 
+
+      <h2>shayan amjad works</h2>
+
     </div>
   );
 }
